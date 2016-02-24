@@ -1,4 +1,0 @@
-Added Pin To Net: NetName=I2C0SDA Pin=U2-13
-Added Pin To Net: NetName=RST_N Pin=U2-14
-Added Pin To Net: NetName=I2C0SCL Pin=U2-16
-Added Pin To Net: NetName=TPINT0# Pin=U2-17
